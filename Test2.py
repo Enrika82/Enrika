@@ -3,4 +3,5 @@ print("conflict")
 print ("a new line created")
 
 
-print("new update")
+
+print(2)
